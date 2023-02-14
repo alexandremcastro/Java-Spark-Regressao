@@ -6,14 +6,14 @@ Utilizando o Spark para o desenvolvimento de algoritmos de Machine Learning (Reg
 Este primeiro algoritmo, se trata de um algoritmo de Regressão Linear, nele fui capaz de treinar uma base de dados de vendas de jogos e predizer as vendas em milhões de dólares, dos jogos no país do Japão, calculando também o erro quadrático médio. 
 
 Utilizei como referência essa base de vendas de jogos do Kaggle: https://www.kaggle.com/datasets/gregorut/videogamesales
+![VGSales](Imagens/games.png)
 
-### Regressão Linear com dados de cogumelos.
+### Regressão Linear com dados de cogumelos
 Este segundo algoritmo, de Regressão Linear, fui capaz de treinar uma base de dados de cogumelos e predizer o erro quadrático médio da probabilidade dos cogumelos, serem consumíveis ou venenosos.
 
 Utilizei como referência essa base de dados de cogumelos: https://www.kaggle.com/datasets/uciml/mushroom-classification
+![Mushrooms](Imagens/mushrooms.png)
 
 
-### Regressão Logistica com dados de cogumelos.
+### Regressão Logistica com dados de cogumelos
 Este terceiro algoritmo, de Regressão Logística, fui capaz de treinar uma base de dados de cogumelos e utilizando classificador RandomForest, a acurácia e matriz de confusão com e sem PCA e a categorização dos cogumelos.
-
-Utilizei como referência essa base de dados de cogumelos: https://www.kaggle.com/datasets/uciml/mushroom-classification
