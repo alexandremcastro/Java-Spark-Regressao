@@ -1,5 +1,7 @@
 # Regressão Linear e Logistica utilizando o Spark com Java
 
+[Link do projeto no meu site](https://alexandre-castro.vercel.app/blog/Java-Spark)
+
 Utilizando o Spark para o desenvolvimento de algoritmos de Machine Learning (Regressão Linear e Regressão Logistica) com Java através do HDFS, para o trabalho final do 1º semestre de Infraestrutura de Big Data.
 
 ### Regressão Linear com vendas de jogos
